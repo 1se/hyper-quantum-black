@@ -1,0 +1,25 @@
+{
+  "name": "hyper-quantum-black",
+  "version": "0.1.0",
+  "description": "vim-quantum black theme port for hyper.term",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/1se/hyper-quantum-black.git"
+  },
+  "main": "index.js",
+  "keywords": [
+	"hyper",
+	"hyperterm",
+	"vim-quantum",
+	"quantum",
+	"colorscheme",
+	"theme",
+	"colors"
+  ],
+  "author": {
+	"name": "1se",
+	"email": "1se@1se.space",
+	"url": "https://1se.space"
+  },
+  "license": "MIT"
+}
