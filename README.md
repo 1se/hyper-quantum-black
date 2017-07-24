@@ -1,6 +1,6 @@
 # Bringing a part of vim-quantum to hyper!
 
-This is a port of the wonderful [vim-quantum-black](https://github.com/tyrannicaltoucan/vim-quantum) vim and terminal color scheme by [](https://github.com/tyrannicaltoucan) for [Hyper](https://hyper.is/)!
+This is a port of the wonderful [vim-quantum-black](https://github.com/tyrannicaltoucan/vim-quantum) vim and terminal color scheme by [tyrannicaltoucan](https://github.com/tyrannicaltoucan) for [Hyper](https://hyper.is/)!
 
 ![Screenshot](./img/screenshot.png)
 
